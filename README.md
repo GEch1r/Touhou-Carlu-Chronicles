@@ -1,4 +1,5 @@
-<h1>Touhou Carlu Chronicles</h1>
+<h1>东方卡露记 ～ Chronicles of Carlutia</h1>
+<h2>Touhou Carlu Chronicles</h2>
 
 <p>Touhou Carlu Chronicles 是一个基于 NeoForge 的 Minecraft 模组包，融合东方 Project 主题内容与冒险、战斗及生存玩法。</p>
 
