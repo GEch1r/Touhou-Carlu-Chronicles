@@ -1,0 +1,13 @@
+name = "Accessible Step"
+filename = "accessible-step-neoforge-mc1.21.1-2.2.2+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "42b1e5885cc96b631b6af8993ff8c0875f8f581f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7449463
+project-id = 1044724

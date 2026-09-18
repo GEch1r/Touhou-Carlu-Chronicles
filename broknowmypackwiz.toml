@@ -1,0 +1,26 @@
+# BroKnowMyPackwiz workspace configuration.
+# This file intentionally does not initialize Packwiz.
+
+schema = 1
+manager = "BroKnowMyPackwiz"
+packwiz_metadata_file = "pack.toml"
+packwiz_index_file = "index.toml"
+initialized = false
+
+[workspace]
+mods = "mods"
+resourcepacks = "resourcepacks"
+shaderpacks = "shaderpacks"
+datapacks = "datapacks"
+config = "config"
+defaultconfigs = "defaultconfigs"
+kubejs = "kubejs"
+scripts = "scripts"
+overrides = "overrides"
+
+[metadata]
+# Set these through BroKnowMyPackwiz when the pack target is decided.
+minecraft_version = ""
+loader = ""
+loader_version = ""
+pack_version = ""

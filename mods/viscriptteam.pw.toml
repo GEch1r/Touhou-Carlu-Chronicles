@@ -1,0 +1,13 @@
+name = "ViScriptTeam"
+filename = "ViScriptTeam-neoforge-1.21.1-1.0.2 beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0277404a7ffb371b8dccb5275ae731ab49440dc0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8551094
+project-id = 1547003

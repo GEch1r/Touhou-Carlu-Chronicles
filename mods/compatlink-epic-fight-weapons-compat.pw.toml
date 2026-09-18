@@ -1,0 +1,13 @@
+name = "CompatLink - Epic Fight Weapons Compat"
+filename = "compatlink-neoforge-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "159e63b4eeecb4802f48e8563ec441e3eaa1ee8d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8872766
+project-id = 1607536

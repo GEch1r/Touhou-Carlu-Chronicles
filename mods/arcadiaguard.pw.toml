@@ -1,0 +1,13 @@
+name = "ArcadiaGuard"
+filename = "arcadiaguard-1.5.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d6a4cb230412f7d61ea2c0080c673c21d076eb1d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8380319
+project-id = 1519400

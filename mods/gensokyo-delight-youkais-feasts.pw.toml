@@ -1,0 +1,13 @@
+name = "Gensokyo Delight ~ Youkais' Feasts"
+filename = "youkaisfeasts-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "51aef4dd3e19a60b0a23f2e9ea06e32c4017f850"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8004770
+project-id = 1309991

@@ -1,0 +1,13 @@
+name = "HollowEngine"
+filename = "HollowEngine-neoforge-1.21.1-2.3.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bbe5e68ea1945b59bcb91be659c56413eb143381"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8808473
+project-id = 906903

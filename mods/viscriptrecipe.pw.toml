@@ -1,0 +1,13 @@
+name = "ViScriptRecipe"
+filename = "ViScriptRecipe-neoforge-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "25d0e1303cd244b677be21828625e69631ec7cf0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8895915
+project-id = 1560813

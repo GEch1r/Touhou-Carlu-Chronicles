@@ -1,0 +1,13 @@
+name = "Touhou Carlu Chronicles"
+author = "TCS-Team"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "aa03c2fa4e209397c478e86840e7650fedd047933aa64b8fa2b2faa0e68d1c6e"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.250"

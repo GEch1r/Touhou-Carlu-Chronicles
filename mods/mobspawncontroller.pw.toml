@@ -1,0 +1,13 @@
+name = "MobSpawnController"
+filename = "mobspawncontroller-neoforge-1.21.1-1.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "45af170daa5b4914b7cf9d98a22fec32560eb37b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8830876
+project-id = 1562563

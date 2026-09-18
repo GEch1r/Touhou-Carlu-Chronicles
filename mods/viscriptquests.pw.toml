@@ -1,0 +1,13 @@
+name = "ViScriptQuests"
+filename = "ViScriptQuests-neoforge-1.21.1-1.0.3 beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0b6166196b3a70733ef5f58e7709cf385f3b1d37"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8879788
+project-id = 1548310

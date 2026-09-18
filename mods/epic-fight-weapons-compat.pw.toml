@@ -1,0 +1,13 @@
+name = "Epic Fight Weapons Compat"
+filename = "efweaponscompat-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "827cc5a77d7065b39f8a3b66c3ca1c195b0653de"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8407591
+project-id = 1605182

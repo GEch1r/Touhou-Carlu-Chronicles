@@ -1,0 +1,13 @@
+name = "LockDown Reneoforged"
+filename = "lockdown-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6e0d06b1d76f593f13c05afb838331f165b42fdc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8245680
+project-id = 1492416

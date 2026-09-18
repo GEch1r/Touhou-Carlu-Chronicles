@@ -1,0 +1,13 @@
+name = "Epic Fight: Dawn Day"
+filename = "epic-fight-dawn-day-21.17.1.2.1-mc1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0895cdc6a01a64e8748156c7fe776130673b7f44"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8882486
+project-id = 1463482
