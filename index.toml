@@ -239,6 +239,11 @@ hash = "617ec6e9893d59905035a510fe336addd46a97b6fd28fad88b70713ebf8e69e3"
 metafile = true
 
 [[files]]
+file = "mods/touhou-little-maid.pw.toml"
+hash = "0c3cc91d27d1a01c7b976bb0ae9ece8e8e99dfa2b06f38b058a6d34d854619cd"
+metafile = true
+
+[[files]]
 file = "mods/trotting-wagons.pw.toml"
 hash = "c0b6adc03be5c19aef44474e14fa31bc8e578a60cbb43cabbaaef24f622c95b8"
 metafile = true
