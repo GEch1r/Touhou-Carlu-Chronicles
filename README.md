@@ -2,6 +2,8 @@
 
 <p>Touhou Carlu Chronicles 是一个基于 NeoForge 的 Minecraft 模组包，融合东方 Project 主题内容与冒险、战斗及生存玩法。</p>
 
+[![MIT License][license-shield]][license-url]
+
 <h2>版本信息</h2>
 
 <ul>
