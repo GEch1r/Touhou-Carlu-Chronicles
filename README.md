@@ -33,3 +33,6 @@
 <h2>许可证</h2>
 
 <p>本项目的许可证信息请参见 <a href="LICENSE">LICENSE</a>。</p>
+
+[license-shield]: https://img.shields.io/github/license/JasdewStarfield/Path-of-Truth.svg?style=flat-square
+[license-url]: https://github.com/Jasons-impart/Create-Delight-Remake/blob/readmeupdate/LICENSE
