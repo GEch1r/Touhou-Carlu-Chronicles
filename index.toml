@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "bf8ab0beb697cd5bb08e7e1f0716153686286b2734491a23b15c3e0262c1199f"
+
+[[files]]
 file = "README.md"
-hash = "936fad3ebb21c093952fabf876639e93599ed1b60eda93d1cd62f775afc745c1"
+hash = "3ce1dba4c1d6cff0d11d3e55198965480bb1761f08ec7f613fe704ddfffb6d5f"
 
 [[files]]
 file = "broknowmypackwiz.toml"
@@ -19,6 +23,10 @@ hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
 [[files]]
 file = "defaultconfigs/.gitkeep"
 hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+
+[[files]]
+file = "docs/DEVELOPMENT.md"
+hash = "402e9176e5510a286668e5a5e53b69e83d403369c85d165266a2e182d1a4077a"
 
 [[files]]
 file = "kubejs/.gitkeep"
@@ -59,18 +67,13 @@ hash = "f4b5ba77a3c87e7d66f803c5b008541842f380e165755572f8f3504a738d98e8"
 metafile = true
 
 [[files]]
-file = "mods/epic-fight-avalon.pw.toml"
-hash = "07c0e7cf2a55079f2f14e15dbd249be694de6ab0a4b0e9c7843b4b2c4a6c373c"
+file = "mods/distant-horizons.pw.toml"
+hash = "fdea7d99483592216d4818017629cb7af4cad08e502c793639a7ca682160a339"
 metafile = true
 
 [[files]]
 file = "mods/epic-fight-dawn-day.pw.toml"
 hash = "3287f82027ce293e1aaf93d5f4984c68aa193af433aba3ae4452cb880af4be7e"
-metafile = true
-
-[[files]]
-file = "mods/epic-fight-invincible.pw.toml"
-hash = "0e25b685962255329e9a2fbc95483d5e6570b055f3f5e2b75d09a5c5e5e3df1f"
 metafile = true
 
 [[files]]
@@ -86,11 +89,6 @@ metafile = true
 [[files]]
 file = "mods/epic-knights-armor-and-weapons.pw.toml"
 hash = "e6995f53f84ac0d7cd4c0135b5241e6758f7fa7780867d55b084d7ed557f3de4"
-metafile = true
-
-[[files]]
-file = "mods/epicfight-nightfall.pw.toml"
-hash = "2abe9c56bc40a99a4e87d1865eab72a731a748959637adf26418824d984d9b2f"
 metafile = true
 
 [[files]]
@@ -196,6 +194,11 @@ metafile = true
 [[files]]
 file = "mods/modern-ui.pw.toml"
 hash = "aaa5892af3e5d81c19b67ac1b450dc634980dd3af9443072adfa2bdc80b1e6dd"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-crashes-forge.pw.toml"
+hash = "32b9515e4f9a0ccbf91f88e67ef33319aab272e12e09e0c6b227d7be8238bfee"
 metafile = true
 
 [[files]]
